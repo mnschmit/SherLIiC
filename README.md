@@ -20,7 +20,18 @@ Martin Schmitt and Hinrich Schütze. ACL 2019. [preprint](https://arxiv.org/abs/
 
 ***
 
-# Instructions
+# How to get the data
+## SherLIiC resources
+The SherLIiC resources can be downloaded from [here](http://cistern.cis.lmu.de/SherLIiC/sherliic.tar.gz).
+
+**You should extract the archive to the folder `data`.**
+
+## Full embedding files
+The embedding files in `embeddings/filtered` only contain embeddings for the relations occurring in SherLIiC-dev and -test.
+
+Full embedding files can be downloaded [here](http://cistern.cis.lmu.de/SherLIiC/embeddings.tar.gz).
+
+# How to use the code
 
 ## List all available baselines
 To see a list of all available baselines, run:
