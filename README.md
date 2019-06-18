@@ -27,9 +27,9 @@ The SherLIiC resources can be downloaded from [here](http://cistern.cis.lmu.de/S
 **You should extract the archive to the folder `data`.**
 
 ## Full embedding files
-The embedding files in `embeddings/filtered` only contain embeddings for the relations occurring in SherLIiC-dev and -test.
+The embedding files in `embeddings/filtered` only contain embeddings for the relations in SherLIiC-dev and SherLIiC-test.
 
-Full embedding files can be downloaded [here](http://cistern.cis.lmu.de/SherLIiC/embeddings.tar.gz).
+Full embedding files (i.e. embeddings for all entities and relations in the whole SherLIiC event graph) can be downloaded [here](http://cistern.cis.lmu.de/SherLIiC/embeddings.tar.gz).
 
 # How to use the code
 
