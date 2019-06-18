@@ -1,0 +1,13 @@
+{
+  "berant": null,
+  "berant_new": null,
+  "patty": [
+    null,
+    null
+  ],
+  "ppdb": null,
+  "schoenmackers": null,
+  "chirps": null,
+  "word2vec": null,
+  "tsg_preferences": "data/tsg_typed_vs_untyped_thr0.0-only-dev.txt"
+}
