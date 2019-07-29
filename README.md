@@ -4,17 +4,22 @@
 This is the data and code for the paper:
 
 <b>"SherLIiC: A Typed Event-Focused Lexical Inference Benchmark for Evaluating Natural Language Inference"</b><br/>
-Martin Schmitt and Hinrich Schütze. ACL 2019. [preprint](https://arxiv.org/abs/1906.01393)
+Martin Schmitt and Hinrich Schütze. ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1086)
+
+Additional material (e.g., slides of the talk) can be found [here](https://www.cis.uni-muenchen.de/~martin/publ_files/sherliic_acl2019.html).
 
 ```
 @inproceedings{schmitt2019sherliic,
-  title={SherLIiC: A Typed Event-Focused Lexical Inference Benchmark for Evaluating Natural Language Inference},
-  author={Schmitt, Martin and Sch\"{u}tze, Hinrich},
-  booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-  month=jul,
-  year={2019},
-  address={Florence, Italy},
-  publisher={Association for Computational Linguistics}
+    title = "{S}her{LI}i{C}: A Typed Event-Focused Lexical Inference Benchmark for Evaluating Natural Language Inference",
+    author = {Schmitt, Martin  and
+      Sch{\"u}tze, Hinrich},
+    booktitle = "Proceedings of the 57th Conference of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1086",
+    pages = "902--914"
 }
 ```
 
