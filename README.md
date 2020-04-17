@@ -161,7 +161,7 @@ sometimes run a preprocessing script and enter the path to the right file into `
 1. Download `sherlockrules.zip` from [here](http://projectsweb.cs.washington.edu/research/sherlock-hornclauses/).
 2. Extract the archive, enter the folder `sherlockrules` and run
 ```
-cat sherlockrules.* | grep -v '^#' | cut -f1,2,9 sherlockrules.collection | grep -v '2\.0' | cut -f1,3 > sherlockrules.all
+cat sherlockrules.* | grep -v '^#' | cut -f1,2,9 | grep -v '2\.0' | cut -f1,3 > sherlockrules.all
 ```
 3. Enter the path to `sherlockrules.all` in `file_paths.json` under the key `schoenmackers`.
 
